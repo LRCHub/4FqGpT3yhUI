@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Replay",
+  "base_artist": "Iyaz",
+  "createdAt": "2026-02-25T05:01:03.190474Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Replay",
+      "artist": "Lady Gaga",
+      "has_synced": true,
+      "path": "select/01_Replay_Lady_Gaga.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Replay (Dorian Electra Remix)",
+      "artist": "Lady Gaga feat. Dorian Electra, Chris Greatti & Count Baldor",
+      "has_synced": true,
+      "path": "select/02_Replay_(Dorian_Electra_Remix)_Lady_Gaga_feat._Dorian_Electra,_Chris_Greatti_&_Count_Baldor.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Replay (Dorian Electra Remix)",
+      "artist": "Lady Gaga",
+      "has_synced": true,
+      "path": "select/03_Replay_(Dorian_Electra_Remix)_Lady_Gaga.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "June Replay",
+      "artist": "advantage Lucy",
+      "has_synced": false,
+      "path": "select/04_June_Replay_advantage_Lucy.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Slow Emotion Replay",
+      "artist": "THE THE",
+      "has_synced": true,
+      "path": "select/05_Slow_Emotion_Replay_THE_THE.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Nincs replay",
+      "artist": "Omen",
+      "has_synced": false,
+      "path": "select/06_Nincs_replay_Omen.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Replay",
+      "artist": "Planet 1999",
+      "has_synced": true,
+      "path": "select/07_Replay_Planet_1999.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Pon De Replay",
+      "artist": "Rihanna",
+      "has_synced": true,
+      "path": "select/08_Pon_De_Replay_Rihanna.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Pon de Replay (Full Phatt Remix)",
+      "artist": "Rhianna",
+      "has_synced": true,
+      "path": "select/09_Pon_de_Replay_(Full_Phatt_Remix)_Rhianna.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Pon De Replay (Full Phatt Remix)",
+      "artist": "Rihanna",
+      "has_synced": true,
+      "path": "select/10_Pon_De_Replay_(Full_Phatt_Remix)_Rihanna.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Pon de Replay - Radio Edit",
+      "artist": "Rihanna",
+      "has_synced": true,
+      "path": "select/11_Pon_de_Replay_-_Radio_Edit_Rihanna.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Pon De Replay (Radio Edit)",
+      "artist": "Rihanna",
+      "has_synced": true,
+      "path": "select/12_Pon_De_Replay_(Radio_Edit)_Rihanna.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Pon De Replay - Remix",
+      "artist": "Rihanna feat. Elephant Man",
+      "has_synced": false,
+      "path": "select/13_Pon_De_Replay_-_Remix_Rihanna_feat._Elephant_Man.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Pon De Replay Remix",
+      "artist": "Rihanna",
+      "has_synced": true,
+      "path": "select/14_Pon_De_Replay_Remix_Rihanna.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Mr. Replay",
+      "artist": "Ace of Base",
+      "has_synced": true,
+      "path": "select/15_Mr._Replay_Ace_of_Base.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Second Life Replay",
+      "artist": "The Soundtrack Of Our Lives",
+      "has_synced": true,
+      "path": "select/16_Second_Life_Replay_The_Soundtrack_Of_Our_Lives.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Replay",
+      "artist": "Elise Trouw",
+      "has_synced": false,
+      "path": "select/17_Replay_Elise_Trouw.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Rock That Body (apl.de.ap & DJ Replay Remix)",
+      "artist": "Black Eyed Peas",
+      "has_synced": false,
+      "path": "select/18_Rock_That_Body_(apl.de.ap_&_DJ_Replay_Remix)_Black_Eyed_Peas.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Rock That Body (Apl.De.Ap & Dj Replay Remix)",
+      "artist": "The Black Eyed Peas",
+      "has_synced": false,
+      "path": "select/19_Rock_That_Body_(Apl.De.Ap_&_Dj_Replay_Remix)_The_Black_Eyed_Peas.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Replay",
+      "artist": "Iyaz",
+      "has_synced": false,
+      "path": "select/pl_01_Replay_Iyaz.txt"
+    }
+  ]
+}
