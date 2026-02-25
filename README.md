@@ -1,0 +1,124 @@
+# Iyaz – Replay
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+ShawtyLs like a melody
+in my head
+That I canLt keep out
+Got me singinL like
+Na na na na everyday
+ItLs like my iPod stuck on
+replay replay-ay-ay-ay
+ShawtyLs like a melody
+in my head
+That I canLt keep out
+Got me singinL like
+Na na na na everyday
+ItLs like my iPod stuck on
+replay replay-ay-ay-ay
+Remember the first time we met
+You was at the mall
+wit yo friend
+I was scared to approach ya
+But then you came closer
+HopinL you would
+give me a chance
+Who would have ever knew
+That we would ever be
+more than friends
+WeLre real worldwide
+breakin all the rules
+She like a song played
+again and again
+That girl like somethin
+off a poster
+That girl is a dime they say
+That girl is a gun
+to my holster
+SheLs runnin through
+my mind all day ay
+ShawtyLs like a melody
+in my head
+That I canLt keep out
+Got me singinL like
+Na na na na everyday
+ItLs like my iPod stuck on
+replay replay-ay-ay-ay
+ShawtyLs like a melody
+in my head
+That I canLt keep out
+Got me singinL like
+Na na na na everyday
+ItLs like my iPod stuck on
+replay replay-ay-ay-ay
+See you been all
+around the globe
+Not once did you
+leave my mind
+We talk on the phone
+from night til the morn
+Girl you really change my life
+Doin things I never do
+ILm in the kitchin cookin
+things she likes
+WeLre real worldwide
+breakin all the rules
+Someday I wanna
+make you my wife
+That girl like somethin
+off a poster
+That girl is a dime they say
+That girl is the gun
+to my holster
+SheLs runnin through
+my mind all day ay
+ShawtyLs like a melody
+in my head
+That I canLt keep out
+Got me singinL like
+Na na na na everyday
+ItLs like my iPod stuck on
+replay replay-ay-ay-ay
+ShawtyLs like a melody
+in my head
+That I canLt keep out
+Got me singinL like
+Na na na na everyday
+ItLs like my iPod stuck on
+replay replay-ay-ay-ay
+I can be your melody
+A girl that could
+write you a symphony
+The one that could
+fill your fantasies
+So come baby girl
+letLs sing with me
+Ay I can be your melody
+A girl that could
+write you a symphony
+The one that could
+fill your fantasies
+So come baby girl
+letLs sing with me
+Ay na na na na na na na
+Na na na na na na
+Shawty got me singin
+Na na na na na na na
+Na na na na na na na
+Now she got me singin
+ShawtyLs like a melody
+in my head
+That I canLt keep out
+Got me singinL like
+Na na na na everyday
+ItLs like my iPod stuck on
+replay replay-ay-ay-ay
+ShawtyLs like a melody
+in my head
+That I canLt keep out
+Got me singinL like
+Na na na na everyday
+ItLs like my iPod stuck on
+replay replay-ay-ay-ay
+```
